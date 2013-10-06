@@ -1,0 +1,4 @@
+name: iterable_utils
+description: A sample command-line application
+dependencies:
+  range_util: any
